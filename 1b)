@@ -1,0 +1,31 @@
+header (role="banner")
+h1: Comp 484
+2: Structuring Pages
+nav (role="navigation")
+ul
+li  // linking all the pages
+main (role="main")
+article// grouping all the information on structuring pages together
+header
+h3: Conveying Meaning Through Structure  //heading
+p  //paragraph
+section
+h3: Sectioning Elements
+p
+p
+p
+section
+h3: Document Outlines
+p
+p
+p
+aside (role="complementary") //contains contemt related to the main content but not the main content
+h4: W3C Warning
+p
+blockquote
+section
+h3: WAI-ARIA Roles
+p
+footer (role="contentinfo")
+p: CSUN address
+
